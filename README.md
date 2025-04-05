@@ -2,7 +2,7 @@
 Визуальный манифест будущего Казахстана. Речь, визуалы, мечта.
 
 
-“I Dream of a Country…” (English version)
+“I Dream of a Country…”
 
 I dream of a country
 where everyone speaks and loves in Kazakh —
@@ -60,9 +60,9 @@ and never leaves one behind.
 I dream of such a country.
 And that dream already lives in us.
 
+-----------------------------
 
-
-«Я мечтаю о стране…» (финальная версия)
+«Я мечтаю о стране…»
 
 Я мечтаю о стране,
 где каждый говорит и любит на казахском —
