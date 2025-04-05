@@ -60,9 +60,13 @@ and never leaves one behind.
 I dream of such a country.
 And that dream already lives in us.
 
+
+/---------/
+
+
 Kazakh version
 
-«Мен армандайтын ел…» (қазақша нұсқасы)
+«Мен армандайтын ел…»
 
 Мен армандайтын ел —
 әр адам қазақша сөйлеп, қазақша сүйетін ел.
